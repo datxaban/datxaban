@@ -2,16 +2,33 @@
 
 ---
 
-I'm currently pursuing my Master's degree at Aalto University in Finland, building on the strong foundation I laid as a Bachelor's student at Ho Chi Minh City University of Technology. My academic journey reflects my deep interest in cloud technology and system development, which I complement with hands-on experience as a fullstack developer. This multifaceted background fuels my passion for crafting innovative solutions that leverage cloud technology. I thrive in creating seamless and scalable systems, drawing from my expertise in both frontend and backend development. My commitment to delivering top-notch results, whether collaborating in teams or working independently, drives me to continuously expand my skill set and stay ahead in this dynamic industry.
+I'm currently pursuing my Master's degree at Aalto University in Finland, building on the strong foundation I laid as a Bachelor's student at Ho Chi Minh City University of Technology. My academic journey reflects my deep interest in cloud technology and system development, which I complement with hands-on experience as a fullstack developer. 
+
+This multifaceted background fuels my passion for crafting innovative solutions that leverage cloud technology. I thrive in creating seamless and scalable systems, drawing from my expertise in both frontend and backend development. My commitment to delivering top-notch results, whether collaborating in teams or working independently, drives me to continuously expand my skill set and stay ahead in this dynamic industry.
+
+---
+
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FR3dDust)
+<a href="https://www.linkedin.com/in/datdoan30/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Alt text" width="50" height="20"/>
+</a>
 
 ---
 
 🧰 Techstack
 
+Frontend <img src="https://www.svgrepo.com/show/491936/ui-color-1-eye-17.svg" alt="Frontend" width="20" height="20" align="center"/>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS logo" with="50" height = "50" /> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="JS logo" with="50" height = "50" />
 <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="JS logo" with="50" height = "50" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="JS logo" with="50" height = "50" />
-<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="JS logo" with="50" height = "50" /> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="JS logo" with="50" height = "50" />
 
+Backend <img src="https://www.svgrepo.com/show/277424/tool-screwdriver.svg" alt="Frontend" width="20" height="20" align="center"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="JS logo" with="50" height = "50" />
+
+Cloud <img src="https://www.svgrepo.com/show/530449/cloud-backup.svg" alt="Cloud" width="20" height="20" align="center"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="JS logo" with="50" height = "50" /><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="JS logo" with="50" height = "50" /><img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="JS logo" with="50" height = "50" /><img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="JS logo" with="50" height = "50" />
 <!-- 
 **datxaban/datxaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
