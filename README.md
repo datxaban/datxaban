@@ -36,7 +36,10 @@ https://play.google.com/store/apps/details?id=thesis.objectRemoval
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datxaban)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My social media
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FR3dDust)
+<a href="https://twitter.com/R3dDust">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Alt text" width="50" height="20"/>
+</a>
+
 <a href="https://www.linkedin.com/in/datdoan30/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Alt text" width="50" height="20"/>
 </a>
