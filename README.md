@@ -37,6 +37,9 @@ https://github.com/imminh123/aalto-collaboration-tool-client
 React native play around:
 https://github.com/datxaban/rn_play
 
+Data Analytic with Python:
+https://github.com/datxaban/diveintocode-ml
+
 ---
 
 ## &#x1f4c8; My Github Stats
@@ -53,6 +56,7 @@ https://github.com/datxaban/rn_play
 </a>
 
 Gmail: datdoan3009@gmail.com
+
 ---
 <!-- 
 **datxaban/datxaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
