@@ -26,7 +26,7 @@ Cloud <img src="https://www.svgrepo.com/show/530449/cloud-backup.svg" alt="Cloud
 
 ---
 
-## <img src="https://www.svgrepo.com/show/530253/project.svg" alt="Project" width="20" height = "20" align="center" /> My projects
+## <img src="https://www.svgrepo.com/show/530253/project.svg" alt="Project" width="20" height = "20" align="center" /> My "for fun" projects
 Deep Learning for Android device: 
 https://play.google.com/store/apps/details?id=thesis.objectRemoval
 
