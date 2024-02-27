@@ -43,7 +43,7 @@ https://github.com/datxaban/rn_play
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datxaban)](https://github.com/anuraghazra/github-readme-stats)
 
-## My social media
+## My Contacts
 <a href="https://twitter.com/R3dDust">
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Alt text" width="50" height="20"/>
 </a>
@@ -52,6 +52,7 @@ https://github.com/datxaban/rn_play
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Alt text" width="50" height="20"/>
 </a>
 
+Gmail: datdoan3009@gmail.com
 ---
 <!-- 
 **datxaban/datxaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
