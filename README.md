@@ -34,6 +34,9 @@ Collaborative tool and chat app:
 https://github.com/imminh123/aalto-collaboration-tool-conversation
 https://github.com/imminh123/aalto-collaboration-tool-client
 
+React native play around:
+https://github.com/datxaban/rn_play
+
 ---
 
 ## &#x1f4c8; My Github Stats
