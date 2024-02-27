@@ -40,6 +40,9 @@ https://github.com/datxaban/rn_play
 Data Analytic with Python:
 https://github.com/datxaban/diveintocode-ml
 
+Assembly Programming:
+https://github.com/datxaban/MIPS-Assembler-and-Runtime-Simulator-Programming/tree/main
+
 ---
 
 ## &#x1f4c8; My Github Stats
