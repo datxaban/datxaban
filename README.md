@@ -50,13 +50,10 @@ https://github.com/datxaban/MIPS-Assembler-and-Runtime-Simulator-Programming/tre
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datxaban)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Contacts
-<a href="https://twitter.com/R3dDust">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Alt text" width="50" height="20"/>
-</a>
 
-<a href="https://www.linkedin.com/in/datdoan30/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Alt text" width="50" height="20"/>
-</a>
+X: https://twitter.com/R3dDust 
+
+Linkedin: https://www.linkedin.com/in/datdoan30/
 
 Gmail: datdoan3009@gmail.com
 
