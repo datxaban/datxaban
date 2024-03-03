@@ -40,6 +40,9 @@ https://github.com/datxaban/rn_play
 Data Analytic with Python:
 https://github.com/datxaban/diveintocode-ml
 
+Network Infrastructure Simulation:
+https://github.com/datxaban/computer_network
+
 Assembly Programming:
 https://github.com/datxaban/MIPS-Assembler-and-Runtime-Simulator-Programming/tree/main
 
