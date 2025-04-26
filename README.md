@@ -27,7 +27,16 @@ Cloud <img src="https://www.svgrepo.com/show/530449/cloud-backup.svg" alt="Cloud
 ---
 
 ## <img src="https://www.svgrepo.com/show/530253/project.svg" alt="Project" width="20" height = "20" align="center" /> My "for fun" projects
-Deep Learning for Android device: 
+
+Scalable full-stack web projects:
+https://github.com/datxaban/auto-scaled-web
+https://github.com/datxaban/scalable-web
+
+Flutter apps:
+https://datxaban.github.io/quizz_app/
+https://datxaban.github.io/recipe-app/
+
+Deep Learning for Android devices: 
 https://play.google.com/store/apps/details?id=thesis.objectRemoval
 
 Collaborative tool and chat app: 
@@ -37,8 +46,11 @@ https://github.com/imminh123/aalto-collaboration-tool-client
 React native play around:
 https://github.com/datxaban/rn_play
 
-Data Analytic with Python:
+Data Analytics with Python:
 https://github.com/datxaban/diveintocode-ml
+
+E-commerce site:
+https://github.com/datxaban/ecom
 
 Network Infrastructure Simulation:
 https://github.com/datxaban/computer_network
